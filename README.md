@@ -41,7 +41,8 @@ int main(){
 ```
 
 ##Soal 2
-**Alur logaritma**
+
+**Alur algoritma**
 1. Deklarasikan variabel `int n, x, t, batas
 2. Masukan input `cin >> n`
 3. Deklarasikan nilai `batas = n + 100 ; x = 20 ; t = n
